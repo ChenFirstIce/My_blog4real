@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix project run dev",
+    "build": "npm --prefix project run build",
+    "preview": "npm --prefix project run preview"
+  },
+  "dependencies": {
+    "astro-middleware-cn": "^0.0.2"
+  }
+}
